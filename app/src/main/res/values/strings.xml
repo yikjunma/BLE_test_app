@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Test BLE Scan</string>
+
+    <!-- Main-->
+
+    <string name="bluetooth_client">Bluetooth Client</string>
+    <string name="scanning">Scan For Devices</string>
+    <string name="start">Start scan</string>
+    <string name="ble_servers">BLE Device/MAC addr</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disonnect</string>
+    <string name="send">Send</string>
+    <string name="request_timestamp">Request Timestamp</string>
+
+    <!-- Logs -->
+
+    <string name="logs">Process Log</string>
+    <string name="clear">Clear</string>
+
+</resources>
